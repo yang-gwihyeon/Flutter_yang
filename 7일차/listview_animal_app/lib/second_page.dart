@@ -83,46 +83,46 @@ class _second_pageState extends State<second_page> {
                 children: [
                   GestureDetector(
                     onTap: () {
-                      _imagePath = 'images/cow.png';
+                      _imagePath = 'images/korea.png';
                       setState(() {
                         imageName = "젖소";
                       });
                     },
                     child: Image.asset(
-                      'images/cow.png',
+                      'images/korea.png',
                       width: 80,
                     ),
 
                   ),
                                GestureDetector(
                     onTap: () {
-                      _imagePath = 'images/cow.png';
+                      _imagePath = 'images/korea.png';
                       setState(() {
                         imageName = "젖소";
                       });
                     },
                     child: Image.asset(
-                      'images/cow.png',
+                      'images/korea.png',
                       width: 80,
                     ),
 
                   ),
                                GestureDetector(
                     onTap: () {
-                      _imagePath = 'images/cow.png';
+                      _imagePath = 'images/korea.png';
                       setState(() {
                         imageName = "젖소";
                       });
                     },
                     child: Image.asset(
-                      'images/cow.png',
+                      'images/korea.png',
                       width: 80,
                     ),
 
                   ),
                                GestureDetector(
                     onTap: () {
-                      _imagePath = 'images/cow.png';
+                      _imagePath = 'images/korea.png';
                       setState(() {
                         imageName = "젖소";
                       });
@@ -135,13 +135,13 @@ class _second_pageState extends State<second_page> {
                   ),
                                GestureDetector(
                     onTap: () {
-                      _imagePath = 'images/cow.png';
+                      _imagePath = 'images/korea.png';
                       setState(() {
                         imageName = "젖소";
                       });
                     },
                     child: Image.asset(
-                      'images/cow.png',
+                      'images/korea.png',
                       width: 80,
                     ),
                   ),

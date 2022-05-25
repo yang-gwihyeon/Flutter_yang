@@ -119,7 +119,7 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
         controller: controller, 
         children: [
         first_page(list: countryList),
-         second_page(),
+         second_page(list: countryList),
       
       ]),
       bottomNavigationBar: Container(
